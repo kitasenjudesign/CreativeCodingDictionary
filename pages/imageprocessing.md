@@ -18,3 +18,8 @@ https://ics.media/entry/5535
 4px x 4pxから決める。
 
 ### エンボス
+
+### LOG ( ラプラシアンオブガウシアン　）
+ガウスをかけた後、ラプラシアンをかける
+
+http://mainly-coding.blogspot.jp/2009/06/17-log.html
