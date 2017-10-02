@@ -7,6 +7,7 @@
 * [math](https://github.com/kitasenjudesign/CreativeCodingDictionary/blob/master/pages/math.md)
 * [imageprocessing](https://github.com/kitasenjudesign/CreativeCodingDictionary/blob/master/pages/imageprocessing.md)
 * [noise](https://github.com/kitasenjudesign/CreativeCodingDictionary/blob/master/pages/noise.md)
+* [physics](https://github.com/kitasenjudesign/CreativeCodingDictionary/blob/master/pages/physics.md)
 * [_aruaru](https://github.com/kitasenjudesign/CreativeCodingDictionary/blob/master/pages/_aruaru.md)
 
 
