@@ -105,8 +105,6 @@
 ## 関連：oFアドオン集
 http://mizutanikirin.net/of-addons
 
-## 関連：VJを集める
-https://bascule.qiita.com/_nabe/items/82248fee3f62522c1a69
 
 
 
