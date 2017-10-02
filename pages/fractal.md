@@ -1,3 +1,4 @@
+[index](https://github.com/kitasenjudesign/CreativeCodingDictionary/blob/master/README.md)
 
 ### L-system
 L-systemは形式文法の一種で、植物の成長プロセスを初めとした様々な自然物の構造を記述・表現できるアルゴリズムである。自然物の他にも、反復関数系（Iterated Function System; IFS）のようないわゆる自己相似図形やフラクタル図形を生成する場合にも用いられる。
