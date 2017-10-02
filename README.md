@@ -9,7 +9,7 @@
 * [noise](https://github.com/kitasenjudesign/CreativeCodingDictionary/blob/master/pages/noise.md)
 * [physics](https://github.com/kitasenjudesign/CreativeCodingDictionary/blob/master/pages/physics.md)
 * [fractal](https://github.com/kitasenjudesign/CreativeCodingDictionary/blob/master/pages/fractal.md)
-* [lerning](https://github.com/kitasenjudesign/CreativeCodingDictionary/blob/master/pages/lerning.md)
+* [learning](https://github.com/kitasenjudesign/CreativeCodingDictionary/blob/master/pages/learning.md)
 
 * [_aruaru](https://github.com/kitasenjudesign/CreativeCodingDictionary/blob/master/pages/_aruaru.md)
 
