@@ -22,6 +22,4 @@ https://ja.wikipedia.org/wiki/%E3%82%B7%E3%82%B0%E3%83%A2%E3%82%A4%E3%83%89%E9%9
 ### 補間
 * catmull
 
-### オプティカルフロー
 
-### convex hull
