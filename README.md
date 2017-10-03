@@ -16,6 +16,6 @@
 
 --
 
-* [bookmark] (https://github.com/kitasenjudesign/bookmarks)
+* [bookmark](https://github.com/kitasenjudesign/bookmarks)
 
 
