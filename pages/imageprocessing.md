@@ -1,6 +1,22 @@
 
 [index](https://github.com/kitasenjudesign/CreativeCodingDictionary/blob/master/README.md)
 
+# ■変換
+
+### アフィン変換
+平行移動拡大縮小、平行四辺形的変換が可能。台形はできない。
+3x3の行列であらわされる。
+http://imagingsolution.blog107.fc2.com/blog-entry-284.html
+
+### 射影変換（ホモグラフィ）
+台形もできる。
+
+### 細線化アルゴリズム
+http://imagingsolution.blog107.fc2.com/blog-entry-138.html
+
+
+
+# ■フィルタ
 
 ### ガウシアン
 
@@ -37,7 +53,7 @@ A + A' - 128
 で得られる結果。変化がない部分は128の灰色、変化がある部分は白か黒になる。
 
 
-# 圧縮
+# ■圧縮
 ###  
 
 ### 
