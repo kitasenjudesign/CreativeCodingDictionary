@@ -1,3 +1,4 @@
+[index](https://github.com/kitasenjudesign/CreativeCodingDictionary/blob/master/README.md)
 
 ### 教師アリ学習
 教師アリ学習とは、事前に与えられた大量のデータとデータのクラスのラベルの情報を用いて、データとクラスの関係を正しく出力する識別機を学習する手法である。
