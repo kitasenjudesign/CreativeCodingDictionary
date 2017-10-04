@@ -12,9 +12,9 @@ http://www.gaia.h.kyoto-u.ac.jp/~sakai/visual/2/index22.htm
 ### Euler法
 http://www.gaia.h.kyoto-u.ac.jp/~sakai/visual/2/index22.htm
 
-### イージング
+### イージング関数
 
-### 交点
+### 交点の算出
 
 ### シグモイド関数
 https://ja.wikipedia.org/wiki/%E3%82%B7%E3%82%B0%E3%83%A2%E3%82%A4%E3%83%89%E9%96%A2%E6%95%B0
