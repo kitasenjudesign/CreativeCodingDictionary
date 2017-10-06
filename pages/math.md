@@ -24,3 +24,6 @@ https://ja.wikipedia.org/wiki/%E3%82%B7%E3%82%B0%E3%83%A2%E3%82%A4%E3%83%89%E9%9
 
 ### 正距円筒図法
 https://qiita.com/_nabe/items/e1240d1c7fe0c5689ce8
+
+### KD tree
+https://ja.wikipedia.org/wiki/Kd%E6%9C%A8
