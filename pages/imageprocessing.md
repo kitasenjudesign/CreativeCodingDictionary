@@ -9,11 +9,11 @@
 http://imagingsolution.blog107.fc2.com/blog-entry-284.html
 
 ### 射影変換（ホモグラフィ）
-台形もできる。
+台形もできる。アフィン変換と同様に、行列で計算できる。
 
 ### 細線化アルゴリズム
 http://imagingsolution.blog107.fc2.com/blog-entry-138.html
-太い絵から線を抽出する方法
+太い絵から線を抽出する方法があるらしい。
 
 ### ハフ変換
 https://qiita.com/YSRKEN/items/ee94c7c22599c2374722
@@ -65,3 +65,5 @@ A + A' - 128
 ###  
 
 ### 
+
+# 
